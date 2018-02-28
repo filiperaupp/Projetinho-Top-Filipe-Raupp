@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #c6c6c6;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    font-family: impact;
+}
+
+input[type=text] {
+    width: 200px;
+    padding: 16px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 2px solid #4CAF50;
+    border-radius: 4px;
+}
+
+input[type=button] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 13px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#divSection {
+    margin-left: 520px;
+}
+
+#h1Doido {
+    text-align: center;
+    font-size: 40px;
+    font-family: impact;
+}
+
+#divTexto {
+     margin: auto;
+     width: 50%;
+     border: 3px solid green;
+     padding: 10px;
+     text-align: justify;
+     text-indent: 50px;
+     font-size: 20px;
+}
+
+#titleDom {
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    margin: 2px;
+}
